@@ -2,9 +2,15 @@
 
 ![Logo do Projeto](src/assets/imgs/ImagemBanner.png)
 
+## 🔗 Access the Site
+
+ApiRickAndMortyy.surge.sh
+
+
 ## 🛠️ Project
 
 This project is a React application that consumes the public **Rick and Morty** API to display characters from the show in the form of cards. The page allows filtering characters by name and exploring an infinite list, which loads more characters as the user scrolls down.
+
 
 ## ✨ Features
 
@@ -14,6 +20,7 @@ This project is a React application that consumes the public **Rick and Morty** 
 - **Detailed Modal**: Clicking on a character card opens a modal with additional details about the character.
 - **Loading Spinner**: A green spinner (#7FFF00) is displayed while the data is loading.
 
+
 ## 💻 Technologies Used
 
 - **React**: JavaScript library for building the user interface.
@@ -21,6 +28,7 @@ This project is a React application that consumes the public **Rick and Morty** 
 - **CSS/Styled-components**: Used for styling the components.
 - **React Infinite Scroller**: For implementing infinite scrolling for the character list.
 - **React Modal**: To display character details in a modal window.
+
 
 ## 📦 Installation
 
@@ -50,12 +58,14 @@ Follow the steps below to set up the project on your machine:
 
    The project will be available at `http://localhost:3000`.
 
+
 ## 📖 Usage
 
 1. When accessing the homepage, characters will be loaded and displayed in card form.
 2. Use the search bar to filter characters by name.
 3. Scroll down the page to load more characters automatically.
 4. Click on any card to view additional character details in a modal.
+
 
 ## 📁 Project Structure
 
@@ -83,9 +93,11 @@ The basic project structure is:
     /App.js
 ```
 
+
 ## 🌐 API
 
 We are using the [Rick and Morty API](https://rickandmortyapi.com/), which provides data about the characters, such as name, image, status, species, and origin.
+
 
 ## 🤝 Contributions
 
@@ -97,6 +109,7 @@ Contributions are welcome! To contribute to the project, follow these steps:
 4. Push to the remote repository (`git push origin feature/new-feature`).
 5. Open a Pull Request.
 
+
 ## 📝 License
 
 The MIT License (MIT)
@@ -107,6 +120,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 
 ## ✉️ Contact
 
