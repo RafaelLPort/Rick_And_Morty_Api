@@ -4,7 +4,7 @@
 
 ## 🔗 Access the Site
 
-[ApiRickAndMorty.surge.sh](www.ApiRickAndMorty.surge.sh)
+[ApiRickAndMorty.surge.sh](https://apirickandmortyy.surge.sh/)
 
 
 ## 🛠️ Project
